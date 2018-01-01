@@ -3,7 +3,8 @@
 A set of configuration files for VBA projects
 
 Copy the following files into your project to make sure that Git, text editors
-and [VBA-Import-Export]() all work properly:
+and [VBA-Import-Export](https://github.com/mattpalermo/VBA-Import-Export) all
+work properly:
 
 * `.editorconfig`
 * `.gitattributes`
@@ -14,8 +15,9 @@ the line endings are always CRLF. The `.gitattributes` and `.editorconfig` will
 make sure this is always taken care of. `.editorconfig` also makes sure that the
 indenting is kept consistent with how the VBE likes it.
 
-Appropriate configuration for using [VBA-Import-Export]() has also been included
-in `.gitattributes` and `.editorconfig`.
+Appropriate configuration for using
+[VBA-Import-Export](https://github.com/mattpalermo/VBA-Import-Export) has also
+been included in `.gitattributes` and `.editorconfig`.
 
 The `.gitignore` is a helpful starting point for your Git ignore. It ignores
 the Microsoft office temporary files. I have also assumed that you don't want
