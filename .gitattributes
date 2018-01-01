@@ -1,0 +1,6 @@
+# CRLF -> LF by default, but not for modules or classes (especially classes)
+* text=auto
+*.bas text eol=crlf
+*.cls text eol=crlf
+*.frm text eol=crlf
+CodeExport.config.json text eol=crlf

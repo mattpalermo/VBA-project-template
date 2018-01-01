@@ -1,0 +1,6 @@
+# Excel temporary files
+~*
+
+# Build files
+*.xlam
+*.xla
